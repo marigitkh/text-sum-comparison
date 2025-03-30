@@ -1,6 +1,6 @@
 # Comparison of Text Summarization Methods
 
-For our final project for CS6120: NLP, we decided to compare several ways to summarize text.
+This project compares several NLP techniques to summarize text.
 
 We have the following models:
 - Sequence-to-Sequence LSTM (abstractive)
